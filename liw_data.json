@@ -3,12 +3,12 @@
   "totalYears": 70,
   "events": [
     {
-      "week": 0,
-      "event": "I was born"
-    },
-    {
       "week": 1483,
       "event": "This week, I have started tracking my life in weeks,"
+    },
+    {
+      "week": 0,
+      "event": "I was born"
     }
   ]
 }
