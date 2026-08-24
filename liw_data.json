@@ -11,16 +11,16 @@
       "event": "Started creating my Life in weeks to track my life activities"
     },
     {
-      "week": 1274,
-      "event": "Came to the USA on Aug 10th"
-    },
-    {
       "week": 1221,
       "event": "My Father died on Aug 5th"
     },
     {
       "week": 1378,
       "event": "Started PhD in Chemistry at the University of Utah"
+    },
+    {
+      "week": 1274,
+      "event": "Came to the USA on Aug 10th and started MS in Mechanical Engineering"
     }
   ]
 }
